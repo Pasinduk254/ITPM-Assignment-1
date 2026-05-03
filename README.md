@@ -50,4 +50,4 @@ python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https:
 - This project is for academic purposes.
 
 ## 👨‍💻 Author
-Pasinduka (Your Registration Number)
+Pasinduka (IT23815582)
